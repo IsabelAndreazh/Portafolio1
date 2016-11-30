@@ -1,0 +1,244 @@
+a{ /*MENU*/
+	display: inline-block;
+	text-decoration: none;
+	padding: 0px 25px 25px 25px;
+}
+.fondo1{/*PRIMER FONDO*/
+	background-image: url("../img/dance_1.jpg");
+	width: 100%;
+	height: 100%;
+}
+button{
+	background-color: #223772;
+	border:none;
+	color: white;
+	padding: 15px;
+}
+.pd-3{
+	padding: 2% 3%;
+}
+.pd-6{
+	padding: 6%;
+}
+.dec{ /*DECORACION */
+	width: 200px;
+	height:  100px;
+}
+.fondo2{
+	background-image: url("../img/textura_2.jpg");
+}
+#fondoimg1{
+	background-image: url("../img/instructor_4.jpg");
+	width: 50%;
+	height: 300px;
+	background-repeat: no-repeat;
+	
+}
+#fondoimg2{
+	background-image: url("../img/profesor_9.jpg");
+	width: 199%;
+	height: 300px;
+	background-position: right;
+	background-repeat: no-repeat;
+	
+}
+#instructores{
+	margin-top: 240px;
+	width: 400px;
+	height: 60px;
+	font-size: 20px;
+	position: relative;
+}
+.danza{ /*FRASE DANZA*/
+	font-size: 50px;
+	padding: 50px 100px;
+}
+.fondoazul{
+	background-color: #2C3584;
+}
+iframe{ /*MAPA*/
+	padding: 20px;
+}
+.zapatilla{
+	background-image: url("../img/shoes_1.jpg");
+	width: 100%;
+	height: 500px;
+	background-position: right;
+	background-repeat: no-repeat;
+	padding-top: 60px;
+}
+input{ /*CONTACTO*/
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.contacto{
+	border:black solid 1px;
+	width: 600px;
+	height: 50px;
+}
+.cont{
+	margin-left: 50px;
+}
+.nomb{
+	width: 600px;
+	height: 60px;
+	background-image: url("../img/iconos/nombre.png");
+	background-repeat: no-repeat;
+}
+.correo{
+	width: 600px;
+	height: 60px;
+	background-image: url("../img/iconos/email.png");
+	background-repeat: no-repeat;
+}
+.msj{
+	width: 600px;
+	background-image: url("../img/iconos/mensaje.png");
+	background-repeat: no-repeat;
+	height: 110px;
+}
+.botonenv{
+	width: 600px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+/*MAIN NOSOTROS*/
+.fondonos{
+	background-image: url("../img/dance_7.jpg");
+	width: 100%;
+	height: 500px;
+}
+.cajanosotros{
+	background-color: grey ;
+	width: 400px;
+	height: 200px;
+	margin: 150px 450px;
+	padding-top: 20px;
+	opacity: 0.7;
+}
+.nos{
+	margin: 10px;
+}
+.fondopilar{
+	background-image: url("../img/cubes.png");
+}
+#pilar{
+	padding:70px 200px;
+}
+hr{
+	margin: 15px 0px;
+}
+.instructores2{
+	width: 300px;
+	height: 200px;
+	padding: 20px;
+}
+#inst{
+	padding: 0px 60px;
+}
+.nombres{
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+.frase{
+	padding: 70px;
+	font-size: 40px;
+}
+input{ /*CONTACTO*/
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.contacto{
+	border:black solid 1px;
+	width: 600px;
+	height: 50px;
+}
+.cont{
+	margin-left: 50px;
+}
+.nomb{
+	width: 600px;
+	height: 60px;
+	background-image: url("../img/iconos/nombre.png");
+	background-repeat: no-repeat;
+}
+.correo{
+	width: 600px;
+	height: 60px;
+	background-image: url("../img/iconos/email.png");
+	background-repeat: no-repeat;
+}
+.msj{
+	width: 600px;
+	background-image: url("../img/iconos/mensaje.png");
+	background-repeat: no-repeat;
+	height: 110px;
+}
+.botonenv{
+	width: 600px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+/*MAIN CLASES*/
+.clases{
+	padding: 15px 70px;
+}
+.cajaclases{
+	background-color: grey ;
+	width: 300px;
+	height: 200px;
+	margin: 150px 0px;
+	padding-top: 20px;
+	opacity: 0.7;
+	padding: 30px;
+}
+.ballet{
+	background-image: url("../img/dance_12.jpg");
+	height: 500px;
+	margin: 0px 30px 5px 60px;
+	width: 330px;
+}
+.dancemoderm{
+	background-image: url("../img/breakdance.jpg");
+	height: 500px;
+	width: 330px;
+	margin: 0px 30px 5px 0px;
+}
+.jazzliric{
+	background-image: url("../img/lirical-jazz.jpg");
+	height: 500px;
+	width: 330px;
+	margin: 0px 0px 5px 0px;
+}
+.arabicdance{
+	background-image: url("../img/arabe.jpg");
+	height: 500px;
+	margin: 0px 30px 5px 60px;
+	width: 330px;
+}
+.kidslessons{
+	background-image: url("../img/little.jpg");
+	height: 500px;
+	width: 330px;
+	margin: 0px 30px 5px 0px;
+}
+.yogadance{
+	background-image: url("../img/yoga.jpg");
+	height: 500px;
+	width: 330px;
+	margin: 0px 0px 5px 0px;
+}
+/*MAIN BLOG*/
+.cajablog{
+	background-color: #EFE9E9;
+	margin: 40px 30px 10px 60px;
+	width: 90%;
+}
+.imgblog{
+	height: 200px;
+	width: 300px;
+	padding-right: 30px;
+	padding-left: -25px;
+}

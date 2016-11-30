@@ -1,0 +1,106 @@
+.pd-5{padding: 5%;}
+.pd-15{padding: 15%;}
+.pt-3{padding-top:3%;}
+.pt-10{padding-top:10%;}
+.pd-3{padding:3%;}
+.mg-3{margin: 3%;}
+.mt-0{margin-top: 0%;}
+.mt-3{margin-top: 3%;}
+.mt-10{margin-top: 15%;}
+.mt-0{margin-top: 0%;}
+.mb-3{margin-bottom:3%;}
+.mb-7{margin-bottom:7%;}
+.text-white{color: white;}
+.text-blue{color: #8EBEF2;}
+.text-blue2{color: #2C79CC;}
+.bg-gray{background-color: rgba(20, 27, 14, 0.3); }
+.bg-blue{background-color: rgba(11, 88, 255, 0.5);}
+.bg-footer{background-color: #666363}
+.inline{display: inline-block;}
+.block{display: block;}
+#fondo{
+	background-image: url("../image/large.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 	100%;
+}
+header span{border:.1em solid black;}
+button{
+	background-color: rgba(20, 151, 255, 0.3);
+	border: 1%;
+	padding: 1%;
+}
+.sombreado{
+	box-shadow: inset 0px 1px 0px #9e8d84, 0px 5px 0px 0px #8E807E, 0px 10px 5px #999;
+	border-radius: 100%;
+	width: 50%;
+	padding: 10% 0%;
+}
+.logo2{
+	width: 35%;
+}
+.img-fondo2{
+	background-image: url("../image/sec-2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 	100%;
+	opacity: 0.7;
+}
+.iconos{
+	color: #2C79CC;
+	font-size: 300%;
+}
+.iconitos{
+ 	margin-left:95%; 
+ 	background-color: #8EBEF2;
+ 	border-radius: 100%;
+ 	padding: 2%;
+ 	color: white;
+ 	font-size: 200%;
+}
+#separador{
+	margin-left: 92%;
+	margin-top: 15%;
+	margin-bottom: 0%;
+}
+.img-banner{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;	
+	width: 	100%;
+}
+.caja-contacto{
+	width: 80%;
+}
+.asterisco{
+	color: red;
+	border: none;
+}
+.separador{
+	position: absolute ;
+	display: block;
+	margin-top: -5%;
+	margin-left: 40%;
+}
+a:hover { 
+    -webkit-transform-origin: top center;
+  -ms-transform-origin: top center;
+  transform-origin: top center;
+  -webkit-animation-name: swing;
+  animation-name: swing;
+}
+p:hover { 
+	-webkit-animation-name: tada;
+  animation-name: tada;
+}
+button:hover{
+ -webkit-animation-name: tada;
+  animation-name: tada;
+}
+.redes{
+	color: #8EBEF2;
+	padding: 3%;
+	font-size: 200%;
+}	
